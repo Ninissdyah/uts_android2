@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">uts_android2</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="text_satu_id">Registration Form</string>
+    <string name="text_dua_id">Please fill in the data according to your identity card</string>
+    <string name="text_tiga_id">NIK</string>
+    <string name="text_empat_id">Full name</string>
+    <string name="text_lima_id">Date of birth</string>
+    <string name="text_enam_id">Vaccine Date</string>
+    <string name="text_tujuh_id">Address</string>
+    <string name="text_delapan_id">Upload Identity Card</string>
+    <string name="text_sembilan_id">Sign up now</string>
+    <string name="text_satu_main">Your location</string>
+    <string name="text_dua_main">Come on Vaccine,</string>
+    <string name="text_tiga_main">Protect yourself and your loved ones with vaccines.\\n\\nWe display vaccination places around you.</string>
+    <string name="text_empat_main">Nearest Vaccinations</string>
+    <string name="text_satu_p">Vaccination Status</string>
+    <string name="text_dua_p">Full name</string>
+    <string name="text_tiga_p">Full name</string>
+    <string name="text_empat_p">Resident Identification Number (NIK)</string>
+    <string name="text_lima_p">Vaccination Program</string>
+    <string name="text_enam_p">Government Program Vaccines</string>
+    <string name="text_tujuh_p">Vaccination Location</string>
+    <string name="text_delapan_p">RSUP</string>
+    <string name="text_sembilan_p">You can now travel safely to public facilities.</string>
+    <string name="text_sepuluh_p">No Data yet!</string>
+    <string name="text_satu_lim">Available</string>
+    <string name="text_satu_liv">Vaccine Certificate</string>
+    <string name="text_dua_liv">NIK</string>
+    <string name="text_tiga_liv">Date of birth</string>
+    <string name="text_empat_liv">The COVID-19 vaccination has been carried out in accordance with the Regulation of the Minister of Health of the Republic of Indonesia</string>
+    <string name="action_language">language</string>
+</resources>

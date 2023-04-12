@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">uts_android2</string>
+    <string name="appwidget_text">BEISPIEL</string>
+    <string name="add_widget">Widget hinzufügen</string>
+    <string name="app_widget_description">Dies ist eine App-Widget-Beschreibung</string>
+    <string name="text_satu_id">Anmeldeformular</string>
+    <string name="text_dua_id">Bitte füllen Sie die Daten entsprechend Ihrem Personalausweis aus</string>
+    <string name="text_tiga_id">NIK</string>
+    <string name="text_empat_id">Vollständiger Name</string>
+    <string name="text_lima_id">Geburtsdatum</string>
+    <string name="text_enam_id">Impfdatum</string>
+    <string name="text_tujuh_id">Adresse</string>
+    <string name="text_delapan_id">Personalausweis hochladen</string>
+    <string name="text_sembilan_id">Jetzt registrieren</string>
+    <string name="text_satu_main">Ihr Standort</string>
+    <string name="text_dua_main">Komm schon Impfstoff,</string>
+    <string name="text_tiga_main">Schützen Sie sich und Ihre Lieben mit Impfungen. Wir zeigen Impfstellen in Ihrer Nähe an.</string>
+    <string name="text_empat_main">Nächste Impfungen</string>
+    <string name="text_satu_p">Impfstatus</string>
+    <string name="text_dua_p">Vollständiger Name</string>
+    <string name="text_tiga_p">Vollständiger Name</string>
+    <string name="text_empat_p">Einwohneridentifikationsnummer (NIK)</string>
+    <string name="text_lima_p">Impfprogramm</string>
+    <string name="text_enam_p">Impfstoffe des Regierungsprogramms</string>
+    <string name="text_tujuh_p">Impfstelle</string>
+    <string name="text_delapan_p">RSUP</string>
+    <string name="text_sembilan_p">Sie können jetzt sicher zu öffentlichen Einrichtungen reisen.</string>
+    <string name="text_sepuluh_p">Noch keine Daten!</string>
+    <string name="text_satu_lim">Verfügbar</string>
+    <string name="text_satu_liv">Impfzertifikat</string>
+    <string name="text_dua_liv">NIK</string>
+    <string name="text_tiga_liv">Geburtsdatum</string>
+    <string name="text_empat_liv">Die COVID-19-Impfung wurde gemäß der Verordnung des Gesundheitsministers der Republik Indonesien durchgeführt</string>
+    <string name="action_language">Sprache</string>
+</resources>

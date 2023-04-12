@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">uts_android2</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="text_satu_id">Form Pendaftaran</string>
+    <string name="text_dua_id">Mohon isi data sesuai dengan kartu identitas Anda</string>
+    <string name="text_tiga_id">NIK</string>
+    <string name="text_empat_id">Nama Lengkap</string>
+    <string name="text_lima_id">Tanggal Lahir</string>
+    <string name="text_enam_id">Tanggal Vaksin</string>
+    <string name="text_tujuh_id">Alamat</string>
+    <string name="text_delapan_id">Unggah Kartu Tanda Penduduk</string>
+    <string name="text_sembilan_id">Daftar Sekarang</string>
+    <string name="text_satu_main">Lokasi Anda</string>
+    <string name="text_dua_main">Ayo Vaksin,</string>
+    <string name="text_tiga_main">Lindungi diri sendiri dan orang tercinta kalian dengan vaksin.\\n\\nKami menampilkan tempat vaksinasi yang berada disekitarmu.</string>
+    <string name="text_empat_main">Vaksinasi Terdekat</string>
+    <string name="text_satu_p">Status Vaksinasi</string>
+    <string name="text_dua_p">Nama Lengkap</string>
+    <string name="text_tiga_p">Nama Lengkap</string>
+    <string name="text_empat_p">Nomor Induk Kependudukan (NIK)</string>
+    <string name="text_lima_p">Program Vaksinasi</string>
+    <string name="text_enam_p">Vaksin Program Pemerintah</string>
+    <string name="text_tujuh_p">Lokasi Vaksinasi</string>
+    <string name="text_delapan_p">RSUP</string>
+    <string name="text_sembilan_p">Saat ini Anda dapat berpergian dengan aman ke fasilitas publik.</string>
+    <string name="text_sepuluh_p">Belum Ada Data!</string>
+    <string name="text_satu_lim">Available</string>
+    <string name="text_satu_liv">Sertifikat Vaksin</string>
+    <string name="text_dua_liv">NIK</string>
+    <string name="text_tiga_liv">Tanggal Lahir</string>
+    <string name="text_empat_liv">Telah dilakukan vaksinasi COVID-19 sesuai dengan Peraturan Menteri Kesehatan Republik Indonesia</string>
+    <string name="action_language">bahasa</string>
+</resources>
